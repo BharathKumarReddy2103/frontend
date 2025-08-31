@@ -112,7 +112,6 @@ We welcome contributions. Please fork the repo and submit a Pull Request.
 ## License
 
 [MIT License](LICENSE)  
-*(Update this section if you use a different license)*
 
 ---
 
