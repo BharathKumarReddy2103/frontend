@@ -37,8 +37,7 @@ Roboshop is a cloud-native, microservices-based e-commerce platform designed for
 
 ## Tech Stack
 
-- **Frontend:** [Your frontend stack, e.g., React.js, Angular, Vue.js]  
-  *(Update with your actual framework)*
+- **Frontend:** Java
 - **Containerization:** Docker
 - **CI/CD:** Jenkins with [Jenkins Shared Library](https://github.com/BharathKumarReddy2103/jenkins-shared-library)
 - **Orchestration:** Kubernetes (AWS EKS)
